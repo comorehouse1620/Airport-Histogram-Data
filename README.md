@@ -1,5 +1,9 @@
 # **Lab5: Analyzing Airport Data**
 
+Author: Claire Morehouse
+
+Date: November 21st, 2020
+
 
 ### What you will submit:
 
@@ -9,9 +13,9 @@ distances, a histogram that visualizes those distances.
 
 The final output is below:
 
-![](images/puds.png)
+![](image/histogram.png)
 
-A link to your Github repo. The repo must contain your Python code (either as script in `.py` or a notebook in `.ipynb` format). There are four code challenges here, so be sure your code is well documented and shows us how you are solving each challenge! The `README` of your repo should briefly summarize the project (in your own words) and contain an embdded image of your final output. You do not need to include the data files you downloaded (as I have here), but can if you like. If you're going to use this repo as part of your portfolio I suggest that you include a "data" section in your readme that explains what data you've used and links to the pages where it can be downloaded (in fact, you can just copy that text from this repo!).
+
 
 
 ## Data 
